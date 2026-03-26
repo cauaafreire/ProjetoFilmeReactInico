@@ -7,6 +7,8 @@ function Personagens(){
         <div>
             <br />
             <br />
+            <hr />
+            <br />
             <h1> Bruce Wayne</h1>
             <img src={Bruce} alt="" />
             <br/>
@@ -19,6 +21,8 @@ function Personagens(){
                  em segredo.</p>
             <br />
             <br />
+            <hr />
+            <br />
             <h1> Coringa</h1>
             <img src={Coringa} alt="" />
             <br/>
@@ -30,6 +34,8 @@ function Personagens(){
                 os ideais de Batman, manipulando situações para mostrar
                  o lado mais sombrio das pessoas.</p>
             <br />
+            <br />
+            <hr />
             <br />
             <h1>Alfred</h1>
             <img src={Alfred} alt="" />

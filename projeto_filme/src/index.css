@@ -14,7 +14,7 @@ body {
   background: #1C1C1C;
   padding: 30px;
   border-radius: 12px;
-  width: 80%;
+  width: 70%;
   margin: 40px auto;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.6);
 }
@@ -50,7 +50,7 @@ h1 {
 }
 
 img {
-  width: 80%;
+  width: 700px;
   border-radius: 10px;
   margin-top: 15px;
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.8);

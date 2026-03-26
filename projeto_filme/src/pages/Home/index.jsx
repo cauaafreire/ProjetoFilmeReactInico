@@ -3,6 +3,8 @@ import Batman from '../../assets/darkknight.jpg'
 function Home(){
     return(
         <div>
+            <hr />
+            <br />
             <h1>Batman: O Cavaleiro das Trevas" (2008)</h1>
             <img src={Batman} alt="Cavaleiro das trevas" />
             <br />
