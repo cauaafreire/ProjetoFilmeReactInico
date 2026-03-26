@@ -1,8 +1,31 @@
+import Bruce from '../../assets/Bruce.webp'
+import Coringa from '../../assets/coringap.jpg'
+import Alfred from '../../assets/alfred.jpg'
+
 function Personagens(){
     return(
         <div>
-            <h1>Pagina de Personagens</h1>
-            <p>Essa é a pagina de contatos do site.</p>
+            <br />
+            <br />
+            <h1> Bruce Wayne</h1>
+            <img src={Bruce} alt="" />
+            <br/>
+            <br />
+            <h4></h4>
+            <br />
+            <br />
+            <h1> Coringa</h1>
+            <img src={Coringa} alt="" />
+            <br/>
+            <br />
+            <h4></h4>
+            <br />
+            <br />
+            <h1>Alfred</h1>
+            <img src={Alfred} alt="" />
+            <br/>
+            <br />
+            <h4></h4>
         </div>
     )
 }
